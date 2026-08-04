@@ -8,7 +8,7 @@ Economics student at Universidad del Pacífico and Research Assistant at CIUP.
 I use economic research, data and technology to study public policy problems  
 and build practical data-driven tools.
 
-[Website](https://johnbarraza.github.io/) ·
+[Personal Website](https://johnbarraza.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/john-barraza-ratachi/)
 
 </div>
@@ -44,39 +44,25 @@ Public policy · Economic modeling · Applied artificial intelligence
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbarraza&theme=github_dark"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbarraza&theme=github"
-  >
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbarraza&theme=github"
-    alt="GitHub profile summary for John Barraza"
-  >
-</picture>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnbarraza&theme=github_dark&hide_logo=true"
+  alt="John Barraza's GitHub statistics"
+/>
 
-<br>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnbarraza&theme=github_dark&exclude_repos=johnbarraza.github.io,UPBlackboardSync"
+  alt="Languages used across John Barraza's repositories"
+/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=johnbarraza&bg_color=0d1117&color=c9d1d9&title_color=bde3f7&line=58a6ff&point=bde3f7&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=johnbarraza&bg_color=ffffff&color=24292f&title_color=0969da&line=0969da&point=54aeff&area=true&area_color=ddf4ff&hide_border=true&custom_title=Contribution%20Activity"
-  >
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=johnbarraza&theme=github-compact&hide_border=true&area=true"
-    alt="Contribution activity graph for John Barraza"
-  >
-</picture>
+<br><br>
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=johnbarraza&bg_color=0d1117&color=c9d1d9&title_color=bde3f7&line=58a6ff&point=bde3f7&area=true&area_color=1f6feb&hide_border=true&radius=10&custom_title=Contribution%20Activity"
+  alt="John Barraza's contribution activity graph"
+/>
 
 </div>
 
