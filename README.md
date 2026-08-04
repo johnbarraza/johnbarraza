@@ -20,7 +20,7 @@ and build practical data-driven tools.
 - Economics student at **Universidad del Pacífico** (top quintile)
 - Research Assistant at  [**CIUP**](https://ciup.up.edu.pe/nosotros/)
 - Interested in causal inference, education and public policy
-- Building applied AI and data products in Peru
+- Building applied AI and data products in Peru: [**SumaYa**](https://www.sumaya.lat/) , [**FarmaciaIA**](https://github.com/johnbarraza/farmacia-ai), Aptito.
 
 ## Selected projects
 
