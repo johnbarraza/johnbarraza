@@ -17,7 +17,7 @@ and build practical data-driven tools.
 
 ## About me
 
-- Economics student at **Universidad del Pacífico**
+- Economics student at **Universidad del Pacífico** (top quintile)
 - Research Assistant at **CIUP**
 - Interested in causal inference, education and public policy
 - Building applied AI and data products in Peru
