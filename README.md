@@ -45,6 +45,26 @@ Public policy · Economic modeling · Applied artificial intelligence
 
 <div align="center">
 
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnbarraza&amp;theme=github_dark"
+  alt="John Barraza's GitHub profile summary"
+/>
+
+<br><br>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnbarraza&amp;theme=github_dark&amp;hide_logo=true"
+  alt="John Barraza's GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnbarraza&amp;theme=github_dark&amp;exclude_repos=johnbarraza.github.io,UPBlackboardSync"
+  alt="Languages used across John Barraza's repositories"
+/>
+
 <br><br>
 
 <img
