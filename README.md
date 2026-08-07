@@ -33,8 +33,25 @@ and build practical data-driven tools.
 
 ## Tools
 
-`Python` · `R` · `Stata` · `SQL` · `MATLAB` · `LaTeX`  
-`Flutter` · `FastAPI` · `Supabase` · `GitHub Actions`
+<p align="center">
+  <strong>Data & Research</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Stata-1A5E9A?style=flat-square" alt="Stata" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&amp;logo=latex&amp;logoColor=white" alt="LaTeX" />
+</p>
+
+<p align="center">
+  <strong>Development & Platforms</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+</p>
 
 ## Research interests
 
@@ -53,17 +70,10 @@ Public policy · Economic modeling · Applied artificial intelligence
 
 <br><br>
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnbarraza&amp;theme=github_dark&amp;hide_logo=true"
-  alt="John Barraza's GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnbarraza&amp;theme=github_dark&amp;exclude_repos=johnbarraza.github.io,UPBlackboardSync"
-  alt="Languages used across John Barraza's repositories"
-/>
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johnbarraza&amp;theme=github_dark&amp;exclude_repos=johnbarraza.github.io,UPBlackboardSync" alt="Languages used across John Barraza's repositories" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnbarraza&amp;theme=github_dark&amp;exclude_repos=johnbarraza.github.io,UPBlackboardSync" alt="Languages used across John Barraza's commits" />
+</p>
 
 <br><br>
 
