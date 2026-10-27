@@ -30,7 +30,7 @@ and build practical data-driven tools.
 | [Top Papers Creator (Fork)](https://github.com/johnbarraza/Top_papers_creator) | Automated pipeline for producing academic economics papers using LLM-assisted reasoning, Python execution and human review. |
 | [DAGs and CausalML](https://github.com/johnbarraza/DAGs_CausalML) | Notebooks and applications related to causal inference, directed acyclic graphs and machine learning. |
 | [Decision Trees](https://github.com/johnbarraza/Decision_Trees) | Practical implementations and analysis of decision-tree models using Jupyter notebooks. |
-
+| [Job Scraper Peru (Fork)](https://github.com/johnbarraza/ai-job-search-peru) | Pipeline of scraper of jobs listings, extract and evaluate jobs fit according to your own CVs|
 ## Tools
 
 <p align="center">
